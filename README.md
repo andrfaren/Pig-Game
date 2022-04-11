@@ -1,2 +1,2 @@
 # Pig-Game
-A game made in JS using CSS from Jonas Schmedtmann's Udemy course
+A game made in JS for practicing DOM manipulation.
